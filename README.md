@@ -16,6 +16,3 @@ Este é um projeto simples de uma **calculadora básica** desenvolvida em Python
    `git clone https://github.com/seunome/calculadora-python.git`
 2. Navegue até a pasta do projeto.
 3. Execute o arquivo `Calculadora básica.py` no Python.
-
-
-Adicionando README com descrição do projeto.
