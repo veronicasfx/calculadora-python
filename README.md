@@ -18,4 +18,4 @@ Este é um projeto simples de uma **calculadora básica** desenvolvida em Python
 3. Execute o arquivo `Calculadora básica.py` no Python.
 
 
-Adicionando README com descrição do projeto
+Adicionando README com descrição do projeto.
